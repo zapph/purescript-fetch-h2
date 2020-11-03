@@ -1,7 +1,7 @@
 module Node.FetchH2
   ( ContextOptions
   , mkContext
-  , Context
+  , Context(..)
   , URL(..)
   , class HasFetchH2
   , fetchH2ContextL
